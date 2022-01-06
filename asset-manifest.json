@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Face_recognition_app/static/css/main.29338c3e.css",
+    "main.js": "/Face_recognition_app/static/js/main.dc688ea0.js",
+    "static/js/787.b9cec799.chunk.js": "/Face_recognition_app/static/js/787.b9cec799.chunk.js",
+    "static/media/brain.png": "/Face_recognition_app/static/media/brain.90a224d2a8293eff4aeb.png",
+    "index.html": "/Face_recognition_app/index.html",
+    "main.29338c3e.css.map": "/Face_recognition_app/static/css/main.29338c3e.css.map",
+    "main.dc688ea0.js.map": "/Face_recognition_app/static/js/main.dc688ea0.js.map",
+    "787.b9cec799.chunk.js.map": "/Face_recognition_app/static/js/787.b9cec799.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29338c3e.css",
+    "static/js/main.dc688ea0.js"
+  ]
+}
