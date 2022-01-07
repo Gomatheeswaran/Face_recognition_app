@@ -1,8 +1,9 @@
-Tilt{
+Tilt {
     background: linear-gradient( 45deg rgb(233, 11, 233) 20%, rgb(2, 2, 241) 80%);
 }
 
-.center {
+
+.pos {
     display: flex;
-    justify-content: center;
+    margin-left: 40px;
   }
